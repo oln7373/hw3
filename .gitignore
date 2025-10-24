@@ -1,0 +1,14 @@
+# Ignore the entire data folder
+data/
+
+# Ignore Python virtual environments
+venv/
+.env/
+
+# Ignore temporary/system files
+.DS_Store
+*.pyc
+__pycache__/
+
+# Optional: ignore Jupyter checkpoints
+.ipynb_checkpoints/
